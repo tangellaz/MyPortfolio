@@ -3,7 +3,7 @@
 ## Check out my most recent projects!
 
 <h2 align="center">
-  <img src="https://github.com/tangellaz/MyPortfolio/src/assets/Porfolio.gif" alt="MyPortfolio" width="600px" />
+  <img src="https://github.com/tangellaz/MyPortfolio/src/assets/Portfolio.gif" alt="MyPortfolio" width="600px" />
   <br>
 </h2>
 ---
