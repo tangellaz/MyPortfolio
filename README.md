@@ -2,9 +2,9 @@
 
 ## Check out my most recent projects!
 
-![](/examples/Portfolio.gif)
+<!-- ![](/examples/Portfolio.gif) -->
 <h2 align="center">
-  <img src="https://github.com/tangellaz/MyPortfolio/examples/Portfolio.gif" alt="MyPortfolio" width="600px" />
+  <img src="/examples/Portfolio.gif" alt="MyPortfolio" width="600px" />
   <br>
 </h2>
 ---
