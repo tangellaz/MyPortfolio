@@ -1,6 +1,11 @@
 # MyPortfolio | Tyler Angell's Portfolio
----
+
 ## Check out my most recent projects!
+
+<h2 align="center">
+  <img src="https://github.com/tangellaz/MyPortfolio/src/assets/Porfolio.gif" alt="MyPortfolio" width="600px" />
+  <br>
+</h2>
 ---
 Portfolio Template Credit to **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
 
